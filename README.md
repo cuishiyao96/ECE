@@ -21,6 +21,7 @@ The raw data we used is available [here](https://tianchi.aliyun.com/dataset/data
 ### Train and test the model
 
 ```
+mkdir log
 cd ./src/
 ```
 
